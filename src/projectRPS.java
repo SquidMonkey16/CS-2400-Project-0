@@ -10,7 +10,7 @@ public class projectRPS {
 		
 		System.out.println("Thanks for playing!");
 	}
-	
+	// This is a comment
 	public static String computerChoice()
 	{
 		int computerChoice = (int) (Math.random() * 3 + 1); // num from 1 to 3 (starts with rand from 0 to 0.9999999)
