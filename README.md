@@ -4,11 +4,11 @@ Jacob Buck
 
 ## GitHub Repo Link
 
-link here
+https://github.com/SquidMonkey16/CS-2400-Project-0
 
 ## Video Link
 
-https://youtube.com
+https://youtu.be/4CW-pmiZWiE
 
 ## Software
 
