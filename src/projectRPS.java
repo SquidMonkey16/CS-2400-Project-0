@@ -24,7 +24,7 @@ public class projectRPS {
 		else
 			return "scissors";
 	}
-	
+	// This is another comment
 	public static String userChoice()
 	{
 		Scanner scan = new Scanner(System.in);
